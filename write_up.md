@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]:  ./results/image_0.png "Detect Lanes"
+[image1]:  ./results/image.png "Detect Lanes"
 
 ---
 
