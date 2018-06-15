@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./results/image_0.png "Grayscale"
+[image1]:  ./results/image_0.png "Detect Lanes"
 
 ---
 
@@ -31,6 +31,8 @@ The pipeline contains 6 steps:
   to calculate the points to draw line for each lane. Save these numbers in
   history array of slopes and intercepts in order to help smoothing out the
   slope of each lane while detecting lane on videos.
+  
+  ![alt text][image1]
   
 
 ### 2. Identify potential shortcomings with your current pipeline
